@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "green-butterfly-1815",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "666cfdd4-eae9-45a2-9745-d182e391a00b",
+      "database_name": "square-poetry-b4da-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
